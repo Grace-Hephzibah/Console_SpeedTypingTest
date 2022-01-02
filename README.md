@@ -21,4 +21,4 @@ After clonning this repository, run this command in your terminal with the exact
 python main.py
 ```
 
-### I spent 2 days to work on this project. I had a lot of fun to take this code to new heights
+### Feedbacks are welcome
