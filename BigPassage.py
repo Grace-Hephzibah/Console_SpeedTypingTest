@@ -46,25 +46,17 @@ Richard Rutherford''',
     '''HOTEL RECEIPT\n
 Receipt Number: 873200520
 Date: 17/08/2009
-Hotel Name: Bank’s Resort
-Hotel Phone Number: 9502891092
-Hotel Street Address: Alexander Square, 
-Chennai Railways
-City/State/ZIP:India\n
+Hotel Name: Bank’s Resort, Alexander Square\n
 Bill to:
 Name: George Muller
 Company Name: Jetson solutions
-Street Address: Gandhi Nagar, Trivandrum
-City/State/ZIP: Kerala
-Country: India\n\n
+Street Address: Gandhi Nagar, Trivandrum, Kerala
+Country: India\n
 Room No\t\tPrice/Night\t\t# of Nights\t\tAdd Charges\t\tLine Total
 608\t\t4500\t\t\t2\t\t\t300\t\t\t9300
 793\t\t3000\t\t\t2\t\t\t300\t\t\t6300\n
 Phone Number: 934678900\n
-Subtotal: 15,600
-Sales Tax: 1560
-Total: 17,160
-Payment Method: Cash
-Card/Check No: Nil
+Subtotal + Sales Tax: 15,600 + 1560
+Total: 17,160 / Cash
 ''' ]
 

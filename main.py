@@ -61,7 +61,7 @@ def main(stdscr):
             y = 20
             x = 0
 
-        stdscr.addstr(y, x, f"{random.choice(f.words)}! {random.choice(f.phrases)}. \n\n") #advancement here using fun
+        stdscr.addstr(y, x, f"{random.choice(f.words)}! {random.choice(f.phrases)}. \n\n")  # advancement here using fun
         # Common terms for next round
         stdscr.addstr("E/e to Easy Level \n"
                       "M/m to Medium Level \n"
@@ -91,6 +91,7 @@ def main(stdscr):
             break
 
         # resetting key_mode to avoid the repetition of same level
+
 
 # E - 69  e - 101
 # M - 77  m - 109

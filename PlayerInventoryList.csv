@@ -1,2 +1,2 @@
-Player,Highest Score, Highest CPM, Highest WPM, Average CPM, Average WPM
-Guest,0,0,0,0,0
+Player,Username,Password,Highest CPM,Highest WPM,Average CPM,Average WPM,Number of games
+guest,guest,guest,0,0,0,0,0
