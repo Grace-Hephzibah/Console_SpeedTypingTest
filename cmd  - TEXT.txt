@@ -1,0 +1,15 @@
+pyinstaller.exe ^
+--icon=app_logo.ico ^
+--onefile ^
+TypingSpeedTest.py^
+
+BigPassage.py^
+BigPassage_Code.py^
+Fun.py ^
+general_code.py^
+Paragraph_Code.py ^
+Paragraphs.py ^
+Sentences.txt ^
+Sentences_Code.py ^
+Word_Code.py ^
+words.py
