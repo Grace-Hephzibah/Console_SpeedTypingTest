@@ -1,24 +1,28 @@
 # Console Speed Typing Test
-This is a Console-Based program that tests your ability to type
+Typing is a skill and the terminal is a tool. Both are developer's favourites. 
+Here is a Console-Based application that tests your ability to type on the terminal. 
 
-## Learning track
-- Learn't a lot about Curses Module
-- Ascii value usage and text overlapping methods
+## Skills Used
+- Curses Module: overrides your current terminal
+- Extensive use of ascii values
+- Text overlapping methods
 
-## Merits about the code
-- There are different modes for playing 
+## Merits About The Code
+- There are different modes for playing
+    - Easy
+    - Medium
+    - Hard
+    - Ultimate Hard
 - WPM and CPM calculations are dynamic
 
-## Yet to Work On
-- Player Inventory to store data 
-
-## Thanks to <a href = "https://www.youtube.com/watch?v=NQ5i1kJAA6Y"> Tech With Tim </a>
-
-## Test this project on your terminal
-
-After clonning this repository, run this command in your terminal with the exact path as the path of the repository
-```
-python main.py
-```
-
-### Feedbacks are welcome
+## Screenshots Of The Project
+### Easy
+<img src = "https://github.com/Grace-Hephzibah/Console_SpeedTypingTest/blob/main/Level%20Pics/Easy.png"> </img>
+### Medium
+<img src = "https://github.com/Grace-Hephzibah/Console_SpeedTypingTest/blob/main/Level%20Pics/Medium.png"> </img>
+### Hard
+<img src = "https://github.com/Grace-Hephzibah/Console_SpeedTypingTest/blob/main/Level%20Pics/Hard.png"> </img>
+### Ultimate Hard - Letter
+<img src = "https://github.com/Grace-Hephzibah/Console_SpeedTypingTest/blob/main/Level%20Pics/Ultimate%20Hard.png"> </img>
+### Ultimate Hard - Bill
+<img src = "https://github.com/Grace-Hephzibah/Console_SpeedTypingTest/blob/main/Level%20Pics/Ultimate%20Hard%20-%20Bill.png"> </img>
